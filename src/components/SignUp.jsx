@@ -36,7 +36,7 @@ class SignUp extends Component {
           onChange={e => this.changeEmail(e)}
           id="email"
           name="email"
-          type="text"
+          type="email"
         />
       </div>
     );
